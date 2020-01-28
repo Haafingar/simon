@@ -1,12 +1,8 @@
-# Message me on Loki Messenger!
+# Message me on Session!
 
-### My address is 05e642d88d5d7b077459667e6eff241b4e38320d1bd6712aaabc026401a6a89111
+### My address is 059b362cdfa9d7440210faca845da76f980929da2da0511146d26902c688a6b870
 
-Jump straight on to the beta program by downloading one of the following apps:
-
-- Android: https://play.google.com/apps/testing/network.loki.messenger
-- iOS: https://t.co/j6OPEeKT24?amp=1
-- Desktop: https://github.com/loki-project/loki-messenger/releases/latest
+Find the app for your device at https://getsession.org
 
 Create an account, then send me a message, I'd love to chat!
 
