@@ -1,6 +1,6 @@
 # Message me on Session!
 
-### My address is 059b362cdfa9d7440210faca845da76f980929da2da0511146d26902c688a6b870
+### My address is 056ad2b82b85f1585827dda8d2c018e557edbdde722041641bd498dee998700e75
 
 Find the app for your device at https://getsession.org
 
